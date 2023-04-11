@@ -1,0 +1,27 @@
+body{
+	background-image: url("IMG_20230411_161516_408.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.pictur{
+	width: 180px;
+	height: 240px;
+}
+.loc{
+	margin-left:34px;
+	margin-top: 120px;
+}
+.main{
+	width: 700px;
+	height: 400px;
+    margin-top: 805px;
+	margin-left: 20px;
+}
+.social{
+	width: 200px;
+	height: 200px;
+}
+.ins{
+	margin-right: 7px;
+	margin-left: 100px;
+}
